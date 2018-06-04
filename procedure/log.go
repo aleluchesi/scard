@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func Writeconsole() {
+func Writeconsole(sTipo, sProcesso, sMsg string) {
 
 	var sModo string
 
